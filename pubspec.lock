@@ -140,10 +140,10 @@ packages:
     dependency: transitive
     description:
       name: geolocator_android
-      sha256: "00c7177a95823dd3ee35ef42fd8666cd27d219ae14cea472ac76a21dff43000b"
+      sha256: "7aefc530db47d90d0580b552df3242440a10fe60814496a979aa67aa98b1fd47"
       url: "https://pub.dev"
     source: hosted
-    version: "4.6.0"
+    version: "4.6.1"
   geolocator_apple:
     dependency: transitive
     description:
@@ -337,10 +337,10 @@ packages:
     dependency: transitive
     description:
       name: uuid
-      sha256: "814e9e88f21a176ae1359149021870e87f7cddaf633ab678a5d2b0bff7fd1ba8"
+      sha256: "83d37c7ad7aaf9aa8e275490669535c8080377cfa7a7004c24dfac53afffaa90"
       url: "https://pub.dev"
     source: hosted
-    version: "4.4.0"
+    version: "4.4.2"
   vector_math:
     dependency: transitive
     description:
@@ -357,6 +357,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "14.2.1"
+  weather:
+    dependency: "direct main"
+    description:
+      name: weather
+      sha256: "5ad1d5b77051aa524049fc0abf1076ac4533e91e0176b0a4bab1182a2d6f921b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.1"
   web:
     dependency: transitive
     description:
